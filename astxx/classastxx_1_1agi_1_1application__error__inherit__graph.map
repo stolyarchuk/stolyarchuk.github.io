@@ -1,0 +1,10 @@
+<map id="astxx::agi::application_error" name="astxx::agi::application_error">
+<area shape="rect" id="node5" href="$classastxx_1_1agi_1_1database__error.html" title="There was a error with the Asterisk database. " alt="" coords="689,5,829,47"/>
+<area shape="rect" id="node6" href="$classastxx_1_1agi_1_1hangup.html" title="astxx::agi::hangup" alt="" coords="695,71,824,98"/>
+<area shape="rect" id="node9" href="$classastxx_1_1agi_1_1no__channel.html" title="The requested channel could not be found. " alt="" coords="683,122,836,149"/>
+<area shape="rect" id="node10" href="$classastxx_1_1agi_1_1timeout.html" title="The current command timed out. " alt="" coords="694,173,825,199"/>
+<area shape="rect" id="node2" href="$classastxx_1_1agi_1_1error.html" title="astxx::agi::error" alt="" coords="324,97,437,123"/>
+<area shape="rect" id="node3" href="$classastxx_1_1exception.html" title="astxx::exception" alt="" coords="157,97,276,123"/>
+<area shape="rect" id="node7" href="$classastxx_1_1agi_1_1hangup__result.html" title="astxx::agi::hangup\l_result" alt="" coords="884,31,1013,72"/>
+<area shape="rect" id="node8" href="$classastxx_1_1agi_1_1hangup__signal.html" title="astxx::agi::hangup\l_signal" alt="" coords="884,96,1013,137"/>
+</map>

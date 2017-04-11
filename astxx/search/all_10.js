@@ -1,8 +1,28 @@
 var searchData=
 [
+  ['say_5falpha',['say_alpha',['../group___commands.html#ga271796f0592d4218b66db95af9824d33',1,'astxx::agi::say_alpha(const std::string &amp;alphanum, const std::string &amp;escape_digits=&quot;&quot;) const'],['../group___commands.html#gaef55a76671356f16aa13dbff464d0a41',1,'astxx::agi::say_alpha(int number, const std::string &amp;escape_digits=&quot;&quot;) const']]],
+  ['say_5fdate',['say_date',['../group___commands.html#gafd15133750c0dc6272a61f8e212496e4',1,'astxx::agi']]],
+  ['say_5fdatetime',['say_datetime',['../group___commands.html#gac21fa22b307edf59926ac2a7a65ae14c',1,'astxx::agi']]],
+  ['say_5fdigits',['say_digits',['../group___commands.html#ga4990e6befc0282a6ba9ceb98607c691a',1,'astxx::agi']]],
+  ['say_5fnumber',['say_number',['../group___commands.html#ga402912b973229635b8d2b8864782d053',1,'astxx::agi']]],
+  ['say_5fphonetic',['say_phonetic',['../group___commands.html#ga44c6de9d5cb87033d6903d935087de27',1,'astxx::agi']]],
+  ['say_5ftime',['say_time',['../group___commands.html#ga6b8dddd9890a97c2105274d1ab8bacec',1,'astxx::agi']]],
+  ['send_5faction',['send_action',['../classastxx_1_1manager_1_1connection.html#a9c90eff188f3ec03d37b50831de9c4db',1,'astxx::manager::connection']]],
+  ['send_5faction_5fasync',['send_action_async',['../classastxx_1_1manager_1_1connection.html#a4229cd2359e8b6b3a5e67d5275473a3a',1,'astxx::manager::connection']]],
+  ['send_5fcommand',['send_command',['../classastxx_1_1agi.html#a58b19559e97f17e3c0745cc42b7062ac',1,'astxx::agi']]],
+  ['send_5fimage',['send_image',['../group___commands.html#ga05a32bfc3a141dcffcf62b2607bd22da',1,'astxx::agi']]],
+  ['send_5ftext',['send_text',['../group___commands.html#gaf5809770a3011d7bce671c90b234917c',1,'astxx::agi']]],
+  ['set_5fautohangup',['set_autohangup',['../group___commands.html#gad55bfc12f0677e53b1e672fa2df193d7',1,'astxx::agi']]],
+  ['set_5fcallerid',['set_callerid',['../group___commands.html#ga88ac500017490b51dc191a3096bfbf7b',1,'astxx::agi::set_callerid(int number)'],['../group___commands.html#ga64424e9f3244d2e57f7eb42ab2791be0',1,'astxx::agi::set_callerid(const std::string &amp;cid)']]],
+  ['set_5fcontext',['set_context',['../group___commands.html#gad1e1813195d65319934f11528399b204',1,'astxx::agi']]],
+  ['set_5fextension',['set_extension',['../group___commands.html#ga5802c220af6b922576429734d1fffb40',1,'astxx::agi::set_extension(int extension)'],['../group___commands.html#gaa00a3859f8aadc6287b83f6779c3f5a8',1,'astxx::agi::set_extension(const std::string &amp;extension)']]],
+  ['set_5fmusic',['set_music',['../group___commands.html#ga8ef8eeae60331bd09d19d6e443e2b521',1,'astxx::agi']]],
+  ['set_5fpriority',['set_priority',['../group___commands.html#ga4197c94e56299e3fa6b60e0aad982640',1,'astxx::agi::set_priority(int priority)'],['../group___commands.html#ga9d2ad5d0812948d4cf1e954621615e94',1,'astxx::agi::set_priority(const std::string &amp;priority)']]],
+  ['set_5fvariable',['set_variable',['../group___commands.html#gab974a11729c3531e072f7a76daf19991',1,'astxx::agi']]],
   ['setvar',['setvar',['../classastxx_1_1manager_1_1action_1_1setvar.html',1,'astxx::manager::action::setvar'],['../classastxx_1_1manager_1_1action_1_1setvar.html#aa9dd8475e090d2df59cd0f0a245ae02c',1,'astxx::manager::action::setvar::setvar()']]],
   ['setvar_2eh',['setvar.h',['../setvar_8h.html',1,'']]],
   ['status',['status',['../classastxx_1_1manager_1_1action_1_1status.html',1,'astxx::manager::action::status'],['../classastxx_1_1manager_1_1action_1_1status.html#a55a10f47a655284f5f8ece15a7b4f6dd',1,'astxx::manager::action::status::status()']]],
   ['status_2eh',['status.h',['../status_8h.html',1,'']]],
+  ['stream_5ffile',['stream_file',['../group___commands.html#ga9e17de36dafe9689b035ef98aa583f98',1,'astxx::agi']]],
   ['system',['system',['../classastxx_1_1manager_1_1action_1_1events.html#a241a2b9b477efa507b7a5c8cfb97472a',1,'astxx::manager::action::events']]]
 ];

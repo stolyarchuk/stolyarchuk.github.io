@@ -1,0 +1,22 @@
+<map id="include/manager/message.h" name="include/manager/message.h">
+<area shape="rect" id="node2" href="$absolute__timeout_8h.html" title="include/manager/action\l/absolute_timeout.h" alt="" coords="50,259,206,300"/>
+<area shape="rect" id="node3" href="$manager_8h.html" title="include/manager.h" alt="" coords="1414,348,1542,375"/>
+<area shape="rect" id="node4" href="$command_8h.html" title="include/manager/action\l/command.h" alt="" coords="410,259,566,300"/>
+<area shape="rect" id="node5" href="$action_2error_8h.html" title="include/manager/action\l/error.h" alt="" coords="770,80,926,121"/>
+<area shape="rect" id="node6" href="$getvar_8h.html" title="include/manager/action\l/getvar.h" alt="" coords="230,259,386,300"/>
+<area shape="rect" id="node7" href="$hangup_8h.html" title="include/manager/action\l/hangup.h" alt="" coords="590,259,746,300"/>
+<area shape="rect" id="node8" href="$setvar_8h.html" title="include/manager/action\l/setvar.h" alt="" coords="770,259,926,300"/>
+<area shape="rect" id="node9" href="$basic__action_8h.html" title="include/manager/basic\l_action.h" alt="" coords="1379,169,1531,211"/>
+<area shape="rect" id="node10" href="$extension__state_8h.html" title="include/manager/action\l/extension_state.h" alt="" coords="950,259,1106,300"/>
+<area shape="rect" id="node11" href="$list__commands_8h.html" title="include/manager/action\l/list_commands.h" alt="" coords="1130,259,1286,300"/>
+<area shape="rect" id="node12" href="$login_8h.html" title="include/manager/action\l/login.h" alt="" coords="1310,259,1466,300"/>
+<area shape="rect" id="node13" href="$logoff_8h.html" title="include/manager/action\l/logoff.h" alt="" coords="1490,259,1646,300"/>
+<area shape="rect" id="node14" href="$mailbox__count_8h.html" title="include/manager/action\l/mailbox_count.h" alt="" coords="1670,259,1826,300"/>
+<area shape="rect" id="node15" href="$mailbox__status_8h.html" title="include/manager/action\l/mailbox_status.h" alt="" coords="1850,259,2006,300"/>
+<area shape="rect" id="node16" href="$originate_8h.html" title="include/manager/action\l/originate.h" alt="" coords="2030,259,2186,300"/>
+<area shape="rect" id="node17" href="$ping_8h.html" title="include/manager/action\l/ping.h" alt="" coords="2210,259,2366,300"/>
+<area shape="rect" id="node18" href="$redirect_8h.html" title="include/manager/action\l/redirect.h" alt="" coords="2390,259,2546,300"/>
+<area shape="rect" id="node19" href="$status_8h.html" title="include/manager/action\l/status.h" alt="" coords="2570,259,2726,300"/>
+<area shape="rect" id="node20" href="$user__event_8h.html" title="include/manager/action\l/user_event.h" alt="" coords="2750,259,2906,300"/>
+<area shape="rect" id="node21" href="$connection_8h.html" title="include/manager/connection.h" alt="" coords="2931,266,3126,293"/>
+</map>

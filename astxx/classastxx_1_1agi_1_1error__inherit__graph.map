@@ -1,0 +1,14 @@
+<map id="astxx::agi::error" name="astxx::agi::error">
+<area shape="rect" id="node4" href="$classastxx_1_1agi_1_1application__error.html" title="astxx::agi::application\l_error" alt="" coords="488,89,637,131"/>
+<area shape="rect" id="node11" href="$classastxx_1_1agi_1_1invalid__command.html" title="astxx::agi::invalid\l_command" alt="" coords="501,155,625,196"/>
+<area shape="rect" id="node12" href="$classastxx_1_1agi_1_1io__error.html" title="astxx::agi::io_error" alt="" coords="497,221,628,247"/>
+<area shape="rect" id="node13" href="$classastxx_1_1agi_1_1unknown__error.html" title="astxx::agi::unknown\l_error" alt="" coords="493,272,632,313"/>
+<area shape="rect" id="node14" href="$classastxx_1_1agi_1_1usage__error.html" title="astxx::agi::usage_error" alt="" coords="485,338,640,365"/>
+<area shape="rect" id="node2" href="$classastxx_1_1exception.html" title="astxx::exception" alt="" coords="157,221,276,247"/>
+<area shape="rect" id="node5" href="$classastxx_1_1agi_1_1database__error.html" title="There was a error with the Asterisk database. " alt="" coords="695,5,835,47"/>
+<area shape="rect" id="node6" href="$classastxx_1_1agi_1_1hangup.html" title="astxx::agi::hangup" alt="" coords="700,71,829,98"/>
+<area shape="rect" id="node9" href="$classastxx_1_1agi_1_1no__channel.html" title="The requested channel could not be found. " alt="" coords="688,122,841,149"/>
+<area shape="rect" id="node10" href="$classastxx_1_1agi_1_1timeout.html" title="The current command timed out. " alt="" coords="699,173,830,199"/>
+<area shape="rect" id="node7" href="$classastxx_1_1agi_1_1hangup__result.html" title="astxx::agi::hangup\l_result" alt="" coords="889,31,1019,72"/>
+<area shape="rect" id="node8" href="$classastxx_1_1agi_1_1hangup__signal.html" title="astxx::agi::hangup\l_signal" alt="" coords="889,96,1019,137"/>
+</map>

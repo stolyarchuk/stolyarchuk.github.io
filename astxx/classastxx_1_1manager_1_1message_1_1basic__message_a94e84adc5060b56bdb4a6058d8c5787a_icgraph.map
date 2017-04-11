@@ -1,0 +1,5 @@
+<map id="astxx::manager::message::basic_message::insert" name="astxx::manager::message::basic_message::insert">
+<area shape="rect" id="node2" href="$classastxx_1_1manager_1_1action_1_1originate.html#a238e2ce3c0ee6130df3c6c1aa7244172" title="astxx::manager::action\l::originate::action" alt="" coords="241,5,395,47"/>
+<area shape="rect" id="node3" href="$classastxx_1_1manager_1_1action_1_1user__event.html#a9221ebe57c754b74088de5e4401ec020" title="astxx::manager::action\l::user_event::action" alt="" coords="241,71,395,112"/>
+<area shape="rect" id="node4" href="$classastxx_1_1manager_1_1connection.html#a324085e5a390e5d37609b6a051e177ff" title="astxx::manager::connection\l::operator()" alt="" coords="227,136,409,177"/>
+</map>

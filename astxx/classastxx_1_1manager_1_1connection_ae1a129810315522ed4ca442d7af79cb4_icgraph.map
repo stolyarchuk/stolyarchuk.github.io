@@ -1,0 +1,7 @@
+<map id="astxx::manager::connection::wait_response" name="astxx::manager::connection::wait_response">
+<area shape="rect" id="node2" href="$classastxx_1_1manager_1_1connection.html#ad5788f04b37add78069d390d83735174" title="astxx::manager::connection\l::version" alt="" coords="928,24,1111,66"/>
+<area shape="rect" id="node3" href="$classastxx_1_1manager_1_1response__waiter.html#a2460bda7f12e2b486040e4c1d99b50da" title="astxx::manager::response\l_waiter::wait" alt="" coords="241,32,414,74"/>
+<area shape="rect" id="node6" href="$classastxx_1_1manager_1_1connection.html#a324085e5a390e5d37609b6a051e177ff" title="astxx::manager::connection\l::operator()" alt="" coords="236,98,419,139"/>
+<area shape="rect" id="node4" href="$classastxx_1_1manager_1_1connection.html#a9c90eff188f3ec03d37b50831de9c4db" title="astxx::manager::connection\l::send_action" alt="" coords="467,32,649,74"/>
+<area shape="rect" id="node5" href="$classastxx_1_1manager_1_1connection.html#a80f8dac457dda6c4bde05d1d3ad37510" title="astxx::manager::connection\l::operator()" alt="" coords="697,83,880,124"/>
+</map>

@@ -1,4 +1,7 @@
 var searchData=
 [
-  ['what',['what',['../classastxx_1_1exception.html#adf97cd6e29ba1651cdee78b419b39894',1,'astxx::exception']]]
+  ['value',['value',['../classastxx_1_1manager_1_1action_1_1getvar.html#af8b471f1a768d5cf44f0597a09139455',1,'astxx::manager::action::getvar']]],
+  ['variables',['variables',['../classastxx_1_1manager_1_1action_1_1originate.html#a403157e6c258f67b37db5aade91c1ab7',1,'astxx::manager::action::originate']]],
+  ['verbose',['verbose',['../group___commands.html#ga3286e7a380a3d2f402a3d88624c59ff0',1,'astxx::agi']]],
+  ['version',['version',['../classastxx_1_1manager_1_1connection.html#ad5788f04b37add78069d390d83735174',1,'astxx::manager::connection']]]
 ];

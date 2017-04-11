@@ -1,0 +1,10 @@
+<map id="astxx::manager::connection::operator()" name="astxx::manager::connection::operator()">
+<area shape="rect" id="node2" href="$classastxx_1_1manager_1_1connection.html#a9c90eff188f3ec03d37b50831de9c4db" title="astxx::manager::connection\l::send_action" alt="" coords="236,153,419,195"/>
+<area shape="rect" id="node3" href="$classastxx_1_1manager_1_1connection.html#a4229cd2359e8b6b3a5e67d5275473a3a" title="astxx::manager::connection\l::send_action_async" alt="" coords="467,104,649,145"/>
+<area shape="rect" id="node7" href="$classastxx_1_1manager_1_1response__waiter.html#a2460bda7f12e2b486040e4c1d99b50da" title="astxx::manager::response\l_waiter::wait" alt="" coords="471,201,645,243"/>
+<area shape="rect" id="node4" href="$classastxx_1_1manager_1_1basic__action.html#afd78b5651443ac957fdbc9581caa620d" title="astxx::manager::basic\l_action::action" alt="" coords="713,5,864,47"/>
+<area shape="rect" id="node5" href="$classastxx_1_1manager_1_1basic__action.html#a5bc367cbe3dc128ed5bd8de2f2d38ef8" title="astxx::manager::basic\l_action::action_id" alt="" coords="713,71,864,112"/>
+<area shape="rect" id="node6" href="$classastxx_1_1manager_1_1message_1_1basic__message.html#aabc8e974b6e293a6c76e030f1e32c5eb" title="astxx::manager::message\l::basic_message::format" alt="" coords="702,136,875,177"/>
+<area shape="rect" id="node8" href="$classastxx_1_1manager_1_1connection.html#ae1a129810315522ed4ca442d7af79cb4" title="astxx::manager::connection\l::wait_response" alt="" coords="697,201,880,243"/>
+<area shape="rect" id="node9" href="$classastxx_1_1manager_1_1connection.html#acff8f8d4a6ad70289bc62d30793f75ff" title="astxx::manager::connection\l::process_responses" alt="" coords="697,267,880,308"/>
+</map>

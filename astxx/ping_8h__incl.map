@@ -1,0 +1,7 @@
+<map id="include/manager/action/ping.h" name="include/manager/action/ping.h">
+<area shape="rect" id="node2" href="$basic__action_8h.html" title="manager/basic_action.h" alt="" coords="63,95,223,121"/>
+<area shape="rect" id="node3" href="$message_8h.html" title="manager/message.h" alt="" coords="164,244,304,271"/>
+<area shape="rect" id="node4" href="$error_8h.html" title="manager/error.h" alt="" coords="32,319,145,345"/>
+<area shape="rect" id="node10" href="$action_2error_8h.html" title="manager/action/error.h" alt="" coords="45,169,197,196"/>
+<area shape="rect" id="node5" href="$exception_8h.html" title="exception.h" alt="" coords="5,393,95,420"/>
+</map>

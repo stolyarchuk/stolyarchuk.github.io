@@ -63,12 +63,26 @@ $(function() {
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><dl class="reflist">
+<dt><a class="anchor" id="_todo000009"></a>Member <a class="el" href="group___commands.html#gad27963c1e5858b0bdc065040c88a395b">astxx::agi::channel_status</a>  (const std::string &amp;channel="") const</dt>
+<dd>Possibly return status values as values from an enum  </dd>
+<dt><a class="anchor" id="_todo000010"></a>Member <a class="el" href="group___commands.html#ga4c3f7625353f4193097c22803f4812f2">astxx::agi::exec</a>  (const std::string &amp;app, const std::string &amp;options="") const</dt>
+<dd>This function may throw an exception if the application is not found in the future. </dd>
+<dt><a class="anchor" id="_todo000011"></a>Member <a class="el" href="group___commands.html#gacfbeeaaf5ddfd83dcf1245e6f8ecaf53">astxx::agi::get_full_variable</a>  (const std::string &amp;variable, const std::string &amp;channel="") const</dt>
+<dd>Possibly throw an exception if the variable is not found. </dd>
+<dt><a class="anchor" id="_todo000012"></a>Member <a class="el" href="group___commands.html#ga38adc606b6620d39f4e7fd3860362d1b">astxx::agi::get_variable</a>  (const std::string &amp;variable) const</dt>
+<dd>Possibly throw exception if the variable does not exist  </dd>
 <dt><a class="anchor" id="_todo000001"></a>Class <a class="el" href="classastxx_1_1agi_1_1hangup.html">astxx::agi::hangup</a>  </dt>
 <dd>Possibly in the future include the current <a class="el" href="structastxx_1_1agi_1_1result.html">agi::result</a> with the exception.  </dd>
 <dt><a class="anchor" id="_todo000003"></a>Class <a class="el" href="classastxx_1_1agi_1_1hangup__result.html">astxx::agi::hangup_result</a>  </dt>
 <dd>Possibly in the future include the current <a class="el" href="structastxx_1_1agi_1_1result.html">agi::result</a> with the exception.  </dd>
 <dt><a class="anchor" id="_todo000002"></a>Class <a class="el" href="classastxx_1_1agi_1_1hangup__signal.html">astxx::agi::hangup_signal</a>  </dt>
 <dd>Possibly in the future include the current <a class="el" href="structastxx_1_1agi_1_1result.html">agi::result</a> with the exception.  </dd>
+<dt><a class="anchor" id="_todo000008"></a>Member <a class="el" href="classastxx_1_1agi.html#a7651c4d474f98574ac5210b15e0cf11d">astxx::agi::operator[]</a>  (const std::string &amp;key)</dt>
+<dd>Currently this function will return an empty string if the key passed is not found in the environment. It may be better to throw an exception to avoid confusion. </dd>
+<dt><a class="anchor" id="_todo000013"></a>Member <a class="el" href="group___commands.html#gaa7960b2db6708297c712a415437d7e1f">astxx::agi::receive_text</a>  (int timeout=0) const</dt>
+<dd>Maybe we should catch the <a class="el" href="classastxx_1_1agi_1_1application__error.html">application_error</a> and just return an empty string. We could also repackage the exception as an <a class="el" href="classastxx_1_1agi_1_1timeout.html" title="The current command timed out. ">agi::timeout</a> exception.  </dd>
+<dt><a class="anchor" id="_todo000014"></a>Member <a class="el" href="group___commands.html#gab1d8a3a02620d9deea3baf4fc561446f">astxx::agi::tdd_mode</a>  (const std::string &amp;mode)</dt>
+<dd>maybe use enum for modes </dd>
 <dt><a class="anchor" id="_todo000004"></a>Class <a class="el" href="classastxx_1_1manager_1_1action_1_1getvar.html">astxx::manager::action::getvar</a>  </dt>
 <dd>Maybe a handle_event method should throw an exception when the channel is not found or when values are not specified.  </dd>
 <dt><a class="anchor" id="_todo000005"></a>Member <a class="el" href="classastxx_1_1manager_1_1action_1_1hangup.html#a6a1270049ec2cada6e12a5037b27266b">astxx::manager::action::hangup::hangup</a>  (const std::string &amp;channel)</dt>

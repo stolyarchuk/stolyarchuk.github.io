@@ -7,11 +7,14 @@ var searchData=
   ['action_5fid',['action_id',['../classastxx_1_1manager_1_1basic__action.html#a5bc367cbe3dc128ed5bd8de2f2d38ef8',1,'astxx::manager::basic_action::action_id() const'],['../classastxx_1_1manager_1_1basic__action.html#a9d769ce6092d9705a341001df0ce4118',1,'astxx::manager::basic_action::action_id(const std::string &amp;id)']]],
   ['action_5ftraits',['action_traits',['../classastxx_1_1manager_1_1message_1_1action__traits.html',1,'astxx::manager::message']]],
   ['agent',['agent',['../classastxx_1_1manager_1_1action_1_1events.html#afaf0a455f9257d65ee8602228ae1c7d2',1,'astxx::manager::action::events']]],
-  ['agi',['agi',['../classastxx_1_1agi.html',1,'astxx::agi'],['../classastxx_1_1agi.html#aa525419b34fc72e73e9d301b1da7879f',1,'astxx::agi::agi()']]],
+  ['agi',['agi',['../classastxx_1_1agi.html',1,'astxx::agi'],['../classastxx_1_1agi.html#aa396ec16e712c5c842a5a307b21a0e25',1,'astxx::agi::agi()'],['../classastxx_1_1agi.html#aa525419b34fc72e73e9d301b1da7879f',1,'astxx::agi::agi(const agi &amp;)']]],
   ['agi_2eh',['agi.h',['../agi_8h.html',1,'']]],
+  ['answer',['answer',['../group___commands.html#gac4063dcd02afe661f0b6cf7a620eea2f',1,'astxx::agi']]],
   ['application_5ferror',['application_error',['../classastxx_1_1agi_1_1application__error.html',1,'astxx::agi::application_error'],['../classastxx_1_1agi_1_1application__error.html#a3310ca7badaea227c3970649f74de0d8',1,'astxx::agi::application_error::application_error()']]],
   ['async',['async',['../classastxx_1_1manager_1_1action_1_1originate.html#a7fa917ba14d4460a3f644ae42e3f5164',1,'astxx::manager::action::originate']]],
-  ['authentication_5ferror_5fstring',['authentication_error_string',['../error_8h.html#a2113f449c00d9b88a942f1ada3b1448c',1,'astxx::manager']]],
+  ['authentication_5ferror_5fstring',['authentication_error_string',['../error_8h.html#a61b0660a136556b95778c87b218d595f',1,'astxx::manager']]],
   ['authentication_5frequired',['authentication_required',['../classastxx_1_1manager_1_1authentication__required.html',1,'astxx::manager']]],
-  ['astxx',['Astxx',['../index.html',1,'']]]
+  ['agi_20commands',['agi Commands',['../group___commands.html',1,'']]],
+  ['astxx',['Astxx',['../index.html',1,'']]],
+  ['astxx_2c_20the_20asterisk_20c_2b_2b_20wrapper_20and_20utility_20library_2e',['Astxx, The Asterisk C++ wrapper and utility library.',['../md__r_e_a_d_m_e.html',1,'']]]
 ];

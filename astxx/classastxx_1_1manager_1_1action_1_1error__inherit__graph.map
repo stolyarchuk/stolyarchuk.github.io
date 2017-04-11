@@ -1,0 +1,7 @@
+<map id="astxx::manager::action::error" name="astxx::manager::action::error">
+<area shape="rect" id="node5" href="$classastxx_1_1manager_1_1action_1_1bad__data.html" title="Asterisk reported the given data was bad. " alt="" coords="721,5,876,47"/>
+<area shape="rect" id="node6" href="$classastxx_1_1manager_1_1action_1_1channel__not__found.html" title="Asterisk reported that the specified channel was not found. " alt="" coords="721,71,876,112"/>
+<area shape="rect" id="node7" href="$classastxx_1_1manager_1_1action_1_1missing__data.html" title="Asterisk reported required data was missing. " alt="" coords="721,136,876,177"/>
+<area shape="rect" id="node2" href="$classastxx_1_1manager_1_1error.html" title="A generic manager error. " alt="" coords="324,78,471,105"/>
+<area shape="rect" id="node3" href="$classastxx_1_1exception.html" title="astxx::exception" alt="" coords="157,78,276,105"/>
+</map>

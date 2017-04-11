@@ -1,0 +1,7 @@
+<map id="astxx::manager::message::basic_message::format" name="astxx::manager::message::basic_message::format">
+<area shape="rect" id="node2" href="$classastxx_1_1manager_1_1connection.html#a4229cd2359e8b6b3a5e67d5275473a3a" title="astxx::manager::connection\l::send_action_async" alt="" coords="227,27,409,68"/>
+<area shape="rect" id="node3" href="$classastxx_1_1manager_1_1connection.html#ad5788f04b37add78069d390d83735174" title="astxx::manager::connection\l::version" alt="" coords="919,19,1101,60"/>
+<area shape="rect" id="node4" href="$classastxx_1_1manager_1_1connection.html#a9c90eff188f3ec03d37b50831de9c4db" title="astxx::manager::connection\l::send_action" alt="" coords="457,27,640,68"/>
+<area shape="rect" id="node6" href="$classastxx_1_1manager_1_1connection.html#a324085e5a390e5d37609b6a051e177ff" title="astxx::manager::connection\l::operator()" alt="" coords="457,92,640,134"/>
+<area shape="rect" id="node5" href="$classastxx_1_1manager_1_1connection.html#a80f8dac457dda6c4bde05d1d3ad37510" title="astxx::manager::connection\l::operator()" alt="" coords="688,78,871,119"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="astxx::manager::action::channel_not_found" name="astxx::manager::action::channel_not_found">
+<area shape="rect" id="node2" href="$classastxx_1_1manager_1_1action_1_1error.html" title="There was an error executing an action. " alt="" coords="5,229,160,271"/>
+<area shape="rect" id="node3" href="$classastxx_1_1manager_1_1error.html" title="A generic manager error. " alt="" coords="9,155,156,181"/>
+<area shape="rect" id="node4" href="$classastxx_1_1exception.html" title="astxx::exception" alt="" coords="23,80,142,107"/>
+</map>

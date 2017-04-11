@@ -1,0 +1,7 @@
+<map id="astxx::manager::basic_action::handle_response" name="astxx::manager::basic_action::handle_response">
+<area shape="rect" id="node2" href="$classastxx_1_1manager_1_1action_1_1command.html#a712a35008ef33005c65d250f2bf16c35" title="astxx::manager::action\l::command::handle_response" alt="" coords="224,5,417,47"/>
+<area shape="rect" id="node3" href="$classastxx_1_1manager_1_1action_1_1getvar.html#a0d5fce68a14cedef1a146bba6edca732" title="astxx::manager::action\l::getvar::handle_response" alt="" coords="235,71,407,112"/>
+<area shape="rect" id="node4" href="$classastxx_1_1manager_1_1action_1_1login.html#af6bbe11d5d84d06d222ce012b5c5d5df" title="astxx::manager::action\l::login::handle_response" alt="" coords="239,136,402,177"/>
+<area shape="rect" id="node5" href="$classastxx_1_1manager_1_1basic__action.html#a9d769ce6092d9705a341001df0ce4118" title="astxx::manager::basic\l_action::action_id" alt="" coords="465,224,616,265"/>
+<area shape="rect" id="node6" href="$classastxx_1_1manager_1_1basic__action.html#ae3519d397a484c3f3d92ae580c4c9cc3" title="astxx::manager::basic\l_action::operator()" alt="" coords="245,253,396,295"/>
+</map>

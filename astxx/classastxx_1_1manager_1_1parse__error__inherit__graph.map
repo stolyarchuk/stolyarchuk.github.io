@@ -1,0 +1,6 @@
+<map id="astxx::manager::parse_error" name="astxx::manager::parse_error">
+<area shape="rect" id="node5" href="$classastxx_1_1manager_1_1empty__header.html" title="We tried to parse an empty header. " alt="" coords="5,319,161,360"/>
+<area shape="rect" id="node6" href="$classastxx_1_1manager_1_1unknown__message.html" title="An unknown message type was recieved. " alt="" coords="185,319,357,360"/>
+<area shape="rect" id="node2" href="$classastxx_1_1manager_1_1error.html" title="A generic manager error. " alt="" coords="103,155,250,181"/>
+<area shape="rect" id="node3" href="$classastxx_1_1exception.html" title="astxx::exception" alt="" coords="117,80,236,107"/>
+</map>

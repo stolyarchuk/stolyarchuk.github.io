@@ -1,0 +1,7 @@
+<map id="include/manager/action/originate.h" name="include/manager/action/originate.h">
+<area shape="rect" id="node2" href="$basic__action_8h.html" title="manager/basic_action.h" alt="" coords="51,102,211,129"/>
+<area shape="rect" id="node3" href="$message_8h.html" title="manager/message.h" alt="" coords="144,259,284,285"/>
+<area shape="rect" id="node4" href="$error_8h.html" title="manager/error.h" alt="" coords="5,333,119,360"/>
+<area shape="rect" id="node10" href="$action_2error_8h.html" title="manager/action/error.h" alt="" coords="31,184,183,211"/>
+<area shape="rect" id="node5" href="$exception_8h.html" title="exception.h" alt="" coords="43,408,132,435"/>
+</map>
